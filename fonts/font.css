@@ -1,0 +1,20 @@
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('HelveticaLTStd-LightCond.woff') format('woff'),
+       url('Helvetica-LT-Std-Light-Condensed_22481.eot'),
+       url('Helvetica-LT-Std-Light-Condensed_22481.eot?#iefix') format('embedded-opentype'),
+       url('HelveticaLTStd-LightCond.ttf') format('truetype'),;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'sansation';
+  src: url('SansationRegular.woff') format('woff'),
+       url('sansation.eot'),
+       url('sansation.eot?#iefix') format('embedded-opentype'),
+       url('SansationRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
